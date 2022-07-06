@@ -1,8 +1,25 @@
+
+# Contribute
+
+*How to contribute translations.*
+
+<br>
+
+## Video
+
+[![Button Video]][Video]
+
+<br>
+<br>
+
+## Guide
+
+
 # How to contribute
 *Before contributing, a GitHub account is required - you can sign up for one [here](https://github.com/join). If you wish to contribute from your desktop (i.e. using a local text editor), a Git client is required. We recommend [GitHub Desktop](https://desktop.github.com/), which provides a GUI and is easier for novice users to use. However, any Git client will work - it is ultimately a matter of personal preference. For help with GitHub Desktop, refer to [the Help section here](https://help.github.com/en/desktop). If you wish to contribute directly through GitHub, please see the relevant section below.*
 
 ### Alternatively you can watch our tutorial on YouTube!
-[Click here to go to the video](https://youtu.be/4Om6-fzaOYY)
+[Click here to go to the video]()
 
 ***
 Translation folders are named by [Microsofts Language Codes. Click here to learn more](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
@@ -34,13 +51,16 @@ Steam language files are named by [SteamWorks Documentation](https://partner.ste
    * Please include a meaningful commit message describing the exact changes that were made. This is helpful to us when reviewing Pull Requests and commit history.
     * __Only__ commit changes to files you've edited. **Don't** commit changes to `English (default)`
 4. Open a Pull Request (see below). Studio Staff will review the translation.
-## Opening a Pull Request
-To merge your modified fork with the master, a Pull Request must be made. **Please ensure that you have committed and pushed all desired changes before opening a Pull Request.**
-1. Return to this repo and click the **New pull request** button, located at the top of the page.
-2. On the next page, click **compare across forks**.
-3. Select the base and head forks
-   * The *base* fork is the repository that you wish to merge changes into (i.e. this one!) and the *head* (or *compare*) fork is the repository that contains the said changes (i.e. your fork). Ensure that both the base and compare fields are set to **master**. 
-  * In the event that you created further forks of this repository, please refer to [this guide](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) for further guidance.
-4. Create your Pull Request.
-   * **Ensure that the 'Allow edits from maintainers' is selected.**
-   * Write a meaningful title and message for your pull request described the changes that have been made.
+
+
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+[Video]: https://youtu.be/4Om6-fzaOYY
+
+
+<!--------------------------------[ Buttons ]---------------------------------->
+
+[Button Video]: https://img.shields.io/badge/SCP_Secret_Laboratory_|_GitHub_Translations-A4373A?style=for-the-badge&logoColor=white&logo=Youtube
