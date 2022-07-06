@@ -33,13 +33,13 @@ managing translations for **[SCP:Secret Laboratory]**.*
 
 <br>
 
--   [`/Steam-Translations/`]   **➪**   **[SteamWorks Guide]**.
+-   [`/Steam-Translations/`]   **➪**   **[SteamWorks Guide]**
 
     ***⤷***  *Check the  `API Language Codes`  list.*
     
     <br>
 
--   [`/Translations/`]   **➪**   **[Microsoft Language Codes]**.
+-   [`/Translations/`]   **➪**   **[Microsoft Language Codes]**
 
     ***⤷***  *Check the  `Language`  list.*
 
