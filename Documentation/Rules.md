@@ -5,8 +5,9 @@
 *abide by the following rules.*
 
 <br>
+<br>
 
-### Existing Languages
+### Existing
 
 ***Don't*** *submit a language that already exists.*
 
@@ -15,15 +16,17 @@
 #### Updating
 
 Fix bad / faulty translations by amending to the <br>
-existing language, not creating a duplicate.
+existing language, not by creating a duplicate.
 
 <br>
 <br>
+<br>
 
-### Fantasy / Joke Languages
+### Fantasy / Joke
 
 ***Don't*** *submit made-up / joke languages.*
 
+<br>
 <br>
 <br>
 
@@ -33,8 +36,9 @@ existing language, not creating a duplicate.
 
 <br>
 <br>
+<br>
 
-### One At A Time
+### One Language
 
 *Only edit one language at a time.*
 
