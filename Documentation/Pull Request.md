@@ -5,15 +5,16 @@
 *you will need to open a new **Pull Request**.*
 
 <br>
+<br>
 
-## Preparation
+### Preparation
 
 1.  Ensure you have committed / pushed all your changes.
 
 <br>
 <br>
 
-## New Request
+### New Request
 
 2.  Navigate to your forked repository
 
@@ -22,9 +23,9 @@
 <br>
 <br>
 
-## Add Details
+### Add Details
 
-4.  Ensure that `Allow edits from maintainers` is selected.
+4.  Ensure that  `Allow edits from maintainers`  is selected.
 
 5.  Give the request a meaningful title.
 
