@@ -23,11 +23,34 @@ managing translations for **[SCP:Secret Laboratory]**.*
 </div>
 
 <br>
+<br>
+<br>
+
+## Structure
+
+*How this repository is structured.*
+
+-   [`/Steam-Translations/`] are named by the **[SteamWorks Guide]**.
+
+    **⤷**  *Check the `API Language Codes` list.*
+
+-   [`/Translations/`] are named by the **[Microsoft Language Codes]**.
+
+    **⤷**  *Check the `Language` list.*
+
+<br>
 
 
 
 <!----------------------------------------------------------------------------->
 
+[Microsoft Language Codes]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c
+[SCP:Secret Laboratory]: https://scpslgame.com/
+[NorthWood Studios]: https://store.steampowered.com/developer/NWStudios
+[SteamWorks Guide]: https://partner.steamgames.com/doc/store/localization
+
+[`/Steam-Translations/`]: Steam-Translations
+[`/Translations/`]: Translations
 [Contribute]: Documentation/Contribute.md
 [Rules]: Documentation/Rules.md
 
@@ -35,9 +58,6 @@ managing translations for **[SCP:Secret Laboratory]**.*
 [PullRequests]: https://github.com/northwood-studios/SCPSL-Translations/pulls
 [Discussions]: https://github.com/northwood-studios/SCPSL-Translations/discussions
 [Merged]: https://github.com/northwood-studios/SCPSL-Translations/pulls?q=is%3Apr+is%3Aclosed
-
-[SCP:Secret Laboratory]: https://scpslgame.com/
-[NorthWood Studios]: https://store.steampowered.com/developer/NWStudios
 
 
 <!---------------------------------[ Badges ]---------------------------------->
