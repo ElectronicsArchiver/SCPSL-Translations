@@ -39,15 +39,14 @@ managing translations for **[SCP:Secret Laboratory]**.*
 [NorthWood Studios]: https://store.steampowered.com/developer/NWStudios
 
 
-<!----------------------------------[ Badges ]--------------------------------->
+<!---------------------------------[ Badges ]---------------------------------->
 
 [Badge PullRequest]: https://img.shields.io/github/issues-pr-raw/NorthWood-Studios/SCPSL-Translations?color=217346&style=flat&label=Ｒｅｑｕｅｓｔｓ
 [Badge Contributor]: https://img.shields.io/github/contributors-anon/NorthWood-Studios/SCPSL-Translations?color=6264A7&style=flat&label=Ｃｏｎｔｒｉｂｕｔｏｒｓ
-
 [Badge Merged]: https://img.shields.io/github/issues-search/NorthWood-Studios/SCPSL-Translations?color=A4373A&style=flat&label=Ｍｅｒｇｅｄ&query=is%3Apr+is%3Aclosed+is%3Amerged
 
 
-<!---------------------------------[ Buttons ]--------------------------------->
+<!--------------------------------[ Buttons ]---------------------------------->
 
 [Button Questions]: https://img.shields.io/badge/Questions-217346?style=for-the-badge&logoColor=white&logo=AskUbuntu
 [Button Rules]: https://img.shields.io/badge/Rules-A4373A?style=for-the-badge&logoColor=white&logo=MicrosoftAcademic
