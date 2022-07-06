@@ -25,11 +25,11 @@
 
 [![Button Preparations]][Preparations]
 
-**🠗**  
+**🠗**                    **🠗** 
 
-[![Button Offline]][Offline]    **or**    [![Button Online]][Online]
+[![Button Offline]][Offline]        [![Button Online]][Online]
 
-**🠗**  
+**🠗**                    **🠗** 
 
 [![Button Pull Request]][Pull Request]
 
