@@ -33,12 +33,12 @@
 4.  Commit your changes.
 
     *Please give your commit a meaningful message* <br>
-    *and describe the exact change that you made.*
+    *and describe the exact changes that you made.*
     
     *This is helpful to us when reviewing* <br>
     *Pull Requests and commit histories.*
     
-    ***Only*** *commit changes yo files you have edited.* <br>
+    ***Only*** *commit changes to files you have edited.* <br>
     ***Don't*** *commit changes to  `English (default)` .*
 
 <br>
