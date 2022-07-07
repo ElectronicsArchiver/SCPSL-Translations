@@ -28,22 +28,30 @@ managing translations for **[SCP:Secret Laboratory]**.*
 <br>
 <br>
 
-## Structure
+## Repository Structure
 
-*Origins of the folder and* <br> 
-*file naming convensions.*
+*This project focuses on both the in-game* <br>
+*translations as well as **Steam** related ones.*
+
+*Each has their own folder and with it, their own* <br>
+*conventions for the structure that you will find.*
 
 <br>
 
--   [`/Steam-Translations/`]   **➪**   **[SteamWorks Guide]**
+### Steam Translations
 
-    ***⤷***  *Check the  `API Language Codes`  list.*
-    
-    <br>
+The   [`/Steam-Translations/`]   folder contains **Steam** <br>
+related translations that follow the **[SteamWorks Guide]**.
 
--   [`/Translations/`]   **➪**   **[Microsoft Language Codes]**
+*In the **SteamWorks** guide, scroll down* <br>
+*to the `API Language Codes` section.*
 
-    ***⤷***  *Check the  `Language`  list.*
+<br>
+
+### In-game Translations
+
+The   [`/Translations/`]   folder contains the languages <br>
+sorted by the **[Microsoft Language Codes]** scheme.
 
 <br>
 
