@@ -1,11 +1,15 @@
 
 <br>
 
-<div align =center>
+<div align = center>
 
 [![Badge PullRequest]][PullRequests]   
 [![Badge Merged]][Merged]   
 [![Badge Contributor]][Contributors]
+
+<br>
+
+[![Badge Discord]][Discord]
 
 <br>
 <br>
@@ -63,6 +67,7 @@ sorted by the **[Microsoft Language Codes]** scheme.
 [SCP:Secret Laboratory]: https://scpslgame.com/
 [NorthWood Studios]: https://store.steampowered.com/developer/NWStudios
 [SteamWorks Guide]: https://partner.steamgames.com/doc/store/localization
+[Discord]: https://discord.com/scpsl
 
 [`/Steam-Translations/`]: Steam-Translations
 [`/Translations/`]: Translations
@@ -80,6 +85,7 @@ sorted by the **[Microsoft Language Codes]** scheme.
 [Badge PullRequest]: https://img.shields.io/github/issues-pr-raw/NorthWood-Studios/SCPSL-Translations?color=217346&style=flat&label=Ｒｅｑｕｅｓｔｓ
 [Badge Contributor]: https://img.shields.io/github/contributors-anon/NorthWood-Studios/SCPSL-Translations?color=6264A7&style=flat&label=Ｃｏｎｔｒｉｂｕｔｏｒｓ
 [Badge Merged]: https://img.shields.io/github/issues-search/NorthWood-Studios/SCPSL-Translations?color=A4373A&style=flat&label=Ｍｅｒｇｅｄ&query=is%3Apr+is%3Aclosed+is%3Amerged
+[Badge Discord]: https://img.shields.io/discord/330432627649544202?label=Ｄｉｓｃｏｒｄ&color=5865F2&logoColor=white&logo=Discord
 
 
 <!--------------------------------[ Buttons ]---------------------------------->
