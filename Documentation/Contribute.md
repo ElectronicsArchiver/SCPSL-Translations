@@ -5,6 +5,13 @@
 
 <br>
 
+## Crediting
+
+*[» Make yourself familiar with our restrictions on crediting.][Credits]*
+
+<br>
+<br>
+
 ## Video
 
 [![Button Video]][Video]
@@ -45,6 +52,7 @@
 [Preparations]: Preparations.md 'Things you have to set up before you can start translating.'
 [Pull Request]: Pull%20Request.md 'How to open a pull request to merge your changes.'
 [Offline]: Offline.md 'How edit translations with your local text editor.'
+[Credits]: Credits.md
 [Online]: Online.md 'How to edit translations with GitHubs builtin editor.'
 
 
