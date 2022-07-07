@@ -4,10 +4,15 @@
 *Editing translations on GitHub.*
 
 <br>
+<br>
 
 ## Steps
 
+<br>
+
 1.  Find a file you want to edit.
+
+    <br>
 
 2.  Click  <kbd>  Edit this file  </kbd>
 
@@ -19,7 +24,11 @@
     
     *[» Learn more about forking on GitHub.][Forking]*
     
+    <br>
+    
 3.  Make your desired changes.
+
+    <br>
 
 4.  Commit your changes.
 
