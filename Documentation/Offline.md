@@ -43,7 +43,8 @@ The **Git** client instructions have been written for <br>
 
     <br>
     
-5.  Afterwards run  `EncodingNormalizer.exe`  on **modified** files.
+5.  Afterwards run  `EncodingNormalizer.exe`  <br>
+    on the files you have **changed** / **created**.
 
     *This program ensures the correct encoding* <br>
     *as well as formatting of the translation files.*
