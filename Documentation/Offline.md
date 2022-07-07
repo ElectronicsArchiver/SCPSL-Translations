@@ -19,7 +19,7 @@ The **Git** client instructions have been written for <br>
 
 1.  Create a fork of this repository.
 
-    *Clicking the  <kbd>  Fork  </kbd>  button at the top of the page will* <br>
+    *Clicking the   <kbd>  Fork  </kbd>   button at the top of the page will* <br>
     *create a copy of this repository in your GitHub account.*
     
     <br>
@@ -30,7 +30,7 @@ The **Git** client instructions have been written for <br>
 
 3.  Clone the forked repository.
 
-    *In **GitHub Desktop**, press  <kbd>  Ctrl + Shift + O  </kbd>* <br>
+    *In **GitHub Desktop**, press   <kbd>  Ctrl + Shift + O  </kbd>* <br>
     *to open the list of available repositories to clone.*
     
     *Select your **fork** and **choose** a path to place it at.*
@@ -43,7 +43,7 @@ The **Git** client instructions have been written for <br>
 
     <br>
     
-5.  Afterwards run `EncodingNormalizer.exe` on **modified** files.
+5.  Afterwards run  `EncodingNormalizer.exe`  on **modified** files.
 
     *This program ensures the correct encoding* <br>
     *as well as formatting of the translation files.*
@@ -59,7 +59,7 @@ The **Git** client instructions have been written for <br>
     *Pull Requests and commit histories.*
     
     ***Only*** *commit changes to files you have edited.* <br>
-    ***Don't*** *commit changes to  `English (default)` .*
+    ***Don't*** *commit changes to  `English (default)`  .*
 
 <br>
 
