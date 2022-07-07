@@ -8,9 +8,6 @@
 [![Badge Contributor]][Contributors]
 
 <br>
-
-[![Badge Discord]][Discord]
-
 <br>
 <br>
 
@@ -25,6 +22,8 @@ managing translations for **[SCP:Secret Laboratory]**.*
 [![Button Questions]][Discussions]   
 [![Button Rules]][Rules]   
 [![Button Contribute]][Contribute]
+
+[![Button Discord]][Discord]
 
 </div>
 
@@ -84,7 +83,6 @@ sorted by the **[Microsoft Language Codes]** scheme.
 [Badge PullRequest]: https://img.shields.io/github/issues-pr-raw/NorthWood-Studios/SCPSL-Translations?color=217346&style=flat&label=Ｒｅｑｕｅｓｔｓ
 [Badge Contributor]: https://img.shields.io/github/contributors-anon/NorthWood-Studios/SCPSL-Translations?color=6264A7&style=flat&label=Ｃｏｎｔｒｉｂｕｔｏｒｓ
 [Badge Merged]: https://img.shields.io/github/issues-search/NorthWood-Studios/SCPSL-Translations?color=A4373A&style=flat&label=Ｍｅｒｇｅｄ&query=is%3Apr+is%3Aclosed+is%3Amerged
-[Badge Discord]: https://img.shields.io/discord/330432627649544202?label=Ｄｉｓｃｏｒｄ&color=5865F2&logoColor=white&logo=Discord
 
 
 <!--------------------------------[ Buttons ]---------------------------------->
@@ -92,3 +90,4 @@ sorted by the **[Microsoft Language Codes]** scheme.
 [Button Questions]: https://img.shields.io/badge/Questions-217346?style=for-the-badge&logoColor=white&logo=AskUbuntu
 [Button Rules]: https://img.shields.io/badge/Rules-A4373A?style=for-the-badge&logoColor=white&logo=MicrosoftAcademic
 [Button Contribute]: https://img.shields.io/badge/Contribute-6264A7?style=for-the-badge&logoColor=white&logo=GitHub
+[Button Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord
