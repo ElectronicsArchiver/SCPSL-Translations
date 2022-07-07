@@ -1,7 +1,7 @@
 
 # Credits
 
-*What makes you eligible for crediting in the `credits.txt`.*
+*What makes you eligible for crediting in the  `credits.txt` .*
 
 <br>
 
@@ -34,7 +34,7 @@
 
 You name may be removed if all of the following apply:
 
--   You are one of `3+` authors of a translation
+-   You are one of  `3+`  authors of a translation
 
 -   The translation hasn't been updated in a year
 
