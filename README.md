@@ -33,8 +33,8 @@ managing translations for **[SCP:Secret Laboratory]**.*
 *This project focuses on both the in-game* <br>
 *translations as well as **Steam** related ones.*
 
-*Each has their own folder and with it, their own* <br>
-*conventions for the structure that you will find.*
+*Both topics have their own folders and with* <br>
+*them, their own structural conventions.*
 
 <br>
 
@@ -48,9 +48,9 @@ related translations that follow the **[SteamWorks Guide]**.
 
 <br>
 
-### In-game Translations
+### In-Game Translations
 
-The   [`/Translations/`]   folder contains the languages <br>
+The   [`/Translations/`]   folder contains languages <br>
 sorted by the **[Microsoft Language Codes]** scheme.
 
 <br>
